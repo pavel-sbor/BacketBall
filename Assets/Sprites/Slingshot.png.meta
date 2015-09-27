@@ -1,0 +1,75 @@
+fileFormatVersion: 2
+guid: 2a565fff7d039cd41a92a0ff420e3d42
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slingshot
+    21300002: Slingshot_0
+    21300004: Slingshot_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Slingshot_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 94
+        height: 157
+      alignment: 9
+      pivot: {x: .91968441, y: .66579026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slingshot_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 78
+        height: 305
+      alignment: 9
+      pivot: {x: .468715191, y: .900036812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
